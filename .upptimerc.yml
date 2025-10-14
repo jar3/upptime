@@ -35,5 +35,14 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+workflowSchedule:
+  graphs: "0 0 5 31 2 ?"       # Nunca
+  responseTime: "0 0 5 31 2 ?"  # Nunca
+  staticSite: "0 0 5 31 2 ?"    # Nunca
+  summary: "0 0 5 31 2 ?"       # Nunca
+  updateTemplate: "0 0 5 31 2 ?" # Nunca
+  updates: "0 0 5 31 2 ?"       # Nunca
+  uptime: "0 0 5 31 2 ?"        # Nunca
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
